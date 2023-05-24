@@ -1,0 +1,12 @@
+ipython-sql 
+sqlalchemy-redshift == 0.8.14
+psycopg2 == 2.9.5
+marshmallow-sqlalchemy == 0.26.1
+transformers == 4.20.0
+fugashi == 1.1.0
+ipadic == 1.0.0
+pytorch-lightning==1.6.1
+torch == 2.0.0
+torchvision == 0.15.1
+torchtext == 0.15.1
+
